@@ -26,22 +26,16 @@ H4渗透盒子是由[H4CKBU7EER](h4ckbu7eer.top)开发，基于安卓的渗透�
 #### 运行无root：`./<安装目录>/tools/<工具文件>`
 #### 运行有root：`su -c ./<安装目录>/tools/<工具文件>`
 
-## 关于界面
-[![1](https://github.com/H4ckBu7eer-EX/h4tools/blob/main/%E6%88%AA%E5%B1%8F1.jpg?raw=true "1")](https://github.com/H4ckBu7eer-EX/h4tools/blob/main/%E6%88%AA%E5%B1%8F1.jpg?raw=true "1")
 
-[![2](https://github.com/H4ckBu7eer-EX/h4tools/blob/main/%E6%88%AA%E5%B1%8F2.jpg?raw=true "2")](https://github.com/H4ckBu7eer-EX/h4tools/blob/main/%E6%88%AA%E5%B1%8F2.jpg?raw=true "2")
+## 关于权限
 
-[![3](https://github.com/H4ckBu7eer-EX/h4tools/blob/main/%E6%88%AA%E5%B1%8F3.jpg?raw=true "3")](https://github.com/H4ckBu7eer-EX/h4tools/blob/main/%E6%88%AA%E5%B1%8F3.jpg?raw=true "3")
-
-[![4](https://github.com/H4ckBu7eer-EX/h4tools/blob/main/%E6%88%AA%E5%B1%8F4.jpg?raw=true "4")](https://github.com/H4ckBu7eer-EX/h4tools/blob/main/%E6%88%AA%E5%B1%8F4.jpg?raw=true "4")
-
-### 一目了然 不必多说
+### 本软件采用云注入进行公告和分享，所以注入后权限会很多，但是本人承诺不会窃取任何个人信息和影响手机安全，报怀疑态度固然是好，但是请抓包查看上传信息，并在虚拟机运行。本人也会在以后版本取消云注入，换不需权限的分享和公告实现方案，感谢理解。
 
 ## TO DO
 #### 优化答辩UI
 #### 集成FOFA和SHODAN（DOing!）
 #### 解决二进制调用的输出问题
-#### 集成更多工具！
+#### 集成更多工工具
 
 
 ## 联系作者
