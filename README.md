@@ -17,7 +17,6 @@ H4渗透盒子是由[H4CKBU7EER](h4ckbu7eer.top)开发，基于安卓的渗透�
 
 > tip：所以我没有root是不是寄了？NONONO！H4工具集支持在虚拟机和框架里运行。在酷安搜索虚拟机或八爪鱼框架进行安装，给予软件root权限
 
-[![show](https://raw.githubusercontent.com/H4ckBu7eer-EX/h4tools/main/show.jpg"show")](https://raw.githubusercontent.com/H4ckBu7eer-EX/h4tools/main/show.jpg"show")
 
 ## 关于调用工具
 
